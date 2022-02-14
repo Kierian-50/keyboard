@@ -1,0 +1,43 @@
+QPushButton#Key {
+background-color: #F7F5E8;
+border-style: solid;
+border-color: #E0DFD2;
+border-width: 2px;
+border-radius: 10px;
+}
+
+QPushButton#Key:hover {
+background-color: #F7F5E8;
+border-style: solid;
+border-color: gray;
+border-width: 2px;
+border-radius: 10px;
+}
+
+QPushButton#Key:pressed {
+background-color: #EBE9D9;
+border-style: solid;
+border-color: black;
+border-width: 2px;
+border-radius: 10px;
+}
+
+QLabel#MainChar {
+font-size: 17pt;
+color: rgb(0, 36, 255);
+}
+
+QLabel#SecondChar {
+font-size: 9pt;
+color: rgb(0, 36, 255);
+}
+
+QLabel#ThirdChar {
+font-size: 9pt;
+color: rgb(0, 36, 255);
+}
+
+QLabel#LedIcon {
+font-size: 7pt;
+color: gray;
+}
